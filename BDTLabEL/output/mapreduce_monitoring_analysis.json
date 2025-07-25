@@ -1,0 +1,346 @@
+{
+  "consumption_trends": {
+    "residential3": {
+      "2015_10": {
+        "avg_consumption": 1784.4574753189233,
+        "total_consumption": 299788.8558535791,
+        "trend": 0.010416212315932889,
+        "volatility": 0.006245295689018225
+      },
+      "2015_11": {
+        "avg_consumption": 1880.6439923737712,
+        "total_consumption": 1354063.6745091153,
+        "trend": 0.042471917402896166,
+        "volatility": 0.024006788156788028
+      },
+      "2015_12": {
+        "avg_consumption": 2038.7550028466328,
+        "total_consumption": 1516833.7221178948,
+        "trend": 0.03995335445387741,
+        "volatility": 0.022645549040518183
+      },
+      "2016_01": {
+        "avg_consumption": 2198.132444653033,
+        "total_consumption": 1635410.5388218565,
+        "trend": 0.037638282609188715,
+        "volatility": 0.02124577955131105
+      },
+      "2016_02": {
+        "avg_consumption": 2357.5371022636023,
+        "total_consumption": 1640845.823175467,
+        "trend": 0.03283277456415396,
+        "volatility": 0.018422366132311428
+      },
+      "2016_03": {
+        "avg_consumption": 2507.5104689770174,
+        "total_consumption": 1865587.7889189008,
+        "trend": 0.030766873673693615,
+        "volatility": 0.017742843128241523
+      },
+      "2016_04": {
+        "avg_consumption": 2672.583362634599,
+        "total_consumption": 1924260.021096911,
+        "trend": 0.03126226535964149,
+        "volatility": 0.017616136416715094
+      },
+      "2016_05": {
+        "avg_consumption": 2837.5897426418614,
+        "total_consumption": 2111166.768525545,
+        "trend": 0.03437721768190847,
+        "volatility": 0.019118661562671405
+      },
+      "2016_06": {
+        "avg_consumption": 3003.9125280408816,
+        "total_consumption": 2162817.0201894348,
+        "trend": 0.022918567609881955,
+        "volatility": 0.013401818107435591
+      },
+      "2016_07": {
+        "avg_consumption": 3154.355583536625,
+        "total_consumption": 2346840.554151249,
+        "trend": 0.025002538568237302,
+        "volatility": 0.014452680814915488
+      },
+      "2016_08": {
+        "avg_consumption": 3298.84857261656,
+        "total_consumption": 2454343.3380267206,
+        "trend": 0.01896246282016281,
+        "volatility": 0.011093301655783342
+      },
+      "2016_09": {
+        "avg_consumption": 3423.7841795817953,
+        "total_consumption": 2465124.609298893,
+        "trend": 0.019491368022202422,
+        "volatility": 0.011057701680820204
+      },
+      "2016_10": {
+        "avg_consumption": 3568.647296645466,
+        "total_consumption": 2655073.588704227,
+        "trend": 0.022667560054537367,
+        "volatility": 0.012590891782835746
+      },
+      "2016_11": {
+        "avg_consumption": 3703.7190382014364,
+        "total_consumption": 2666677.7075050343,
+        "trend": 0.015564098520063272,
+        "volatility": 0.009082877496931901
+      },
+      "2016_12": {
+        "avg_consumption": 3825.307831490501,
+        "total_consumption": 2846029.026628933,
+        "trend": 0.014710872651562394,
+        "volatility": 0.008640198499842862
+      }
+    },
+    "residential4": {
+      "2015_10": {
+        "avg_consumption": 164.72708283494282,
+        "total_consumption": 27674.149916270395,
+        "trend": 0.19368873506633716,
+        "volatility": 0.09683305107859547
+      },
+      "2015_11": {
+        "avg_consumption": 326.80072753350476,
+        "total_consumption": 235296.52382412343,
+        "trend": 0.5856459105701963,
+        "volatility": 0.2788402035864439
+      },
+      "2015_12": {
+        "avg_consumption": 821.6853934557676,
+        "total_consumption": 611333.932731091,
+        "trend": 0.43057947408696723,
+        "volatility": 0.20485154756823754
+      },
+      "2016_01": {
+        "avg_consumption": 1446.2024780085762,
+        "total_consumption": 1075974.6436383808,
+        "trend": 0.27080550480560456,
+        "volatility": 0.13627887469277064
+      },
+      "2016_02": {
+        "avg_consumption": 2035.8231431671998,
+        "total_consumption": 1416932.907644371,
+        "trend": 0.14578807710356187,
+        "volatility": 0.0777144198653468
+      },
+      "2016_03": {
+        "avg_consumption": 2592.71027587751,
+        "total_consumption": 1928976.4452528674,
+        "trend": 0.10450226994450632,
+        "volatility": 0.057473004282154114
+      },
+      "2016_04": {
+        "avg_consumption": 2904.9108244845897,
+        "total_consumption": 2091535.7936289045,
+        "trend": 0.038860716889330314,
+        "volatility": 0.02241802842638796
+      },
+      "2016_05": {
+        "avg_consumption": 3097.4899529001304,
+        "total_consumption": 2304532.524957697,
+        "trend": 0.017149871909550557,
+        "volatility": 0.010408064001460512
+      },
+      "2016_06": {
+        "avg_consumption": 3233.067446000047,
+        "total_consumption": 2327808.5611200337,
+        "trend": 0.026396701581713113,
+        "volatility": 0.015213396625280203
+      },
+      "2016_07": {
+        "avg_consumption": 3379.5805199096717,
+        "total_consumption": 2514407.906812796,
+        "trend": 0.019839097849330842,
+        "volatility": 0.011477664643216047
+      },
+      "2016_08": {
+        "avg_consumption": 3503.056285036915,
+        "total_consumption": 2606273.8760674647,
+        "trend": 0.011192594015259775,
+        "volatility": 0.00647155368791474
+      },
+      "2016_09": {
+        "avg_consumption": 3606.1387611891273,
+        "total_consumption": 2596419.9080561716,
+        "trend": 0.020507334702251828,
+        "volatility": 0.0116313558698667
+      },
+      "2016_10": {
+        "avg_consumption": 3792.0802832706654,
+        "total_consumption": 2821307.730753375,
+        "trend": 0.04081813670046605,
+        "volatility": 0.02273601829775021
+      },
+      "2016_11": {
+        "avg_consumption": 4228.5027796038585,
+        "total_consumption": 3044522.0013147783,
+        "trend": 0.07348236143809153,
+        "volatility": 0.040597622539806005
+      },
+      "2016_12": {
+        "avg_consumption": 4898.100453113374,
+        "total_consumption": 3644186.7371163503,
+        "trend": 0.0797411359881429,
+        "volatility": 0.04418130548873185
+      }
+    },
+    "residential6": {
+      "2015_10": {
+        "avg_consumption": 5.253060970803745,
+        "total_consumption": 882.5142430950291,
+        "trend": 1.778095880879451,
+        "volatility": 0.5428039294630125
+      },
+      "2015_11": {
+        "avg_consumption": 31.37042233437295,
+        "total_consumption": 22586.704080748525,
+        "trend": 1.0608115286358304,
+        "volatility": 0.40228477294029735
+      },
+      "2015_12": {
+        "avg_consumption": 92.34607362050905,
+        "total_consumption": 68705.47877365873,
+        "trend": 0.45691146926313136,
+        "volatility": 0.21615862534199484
+      },
+      "2016_01": {
+        "avg_consumption": 154.36475328875184,
+        "total_consumption": 114847.37644683136,
+        "trend": 0.2204439594763728,
+        "volatility": 0.11496240408869485
+      },
+      "2016_02": {
+        "avg_consumption": 213.29740155170464,
+        "total_consumption": 148454.99147998643,
+        "trend": 0.14219527049187505,
+        "volatility": 0.07673326611735908
+      },
+      "2016_03": {
+        "avg_consumption": 275.73883373013217,
+        "total_consumption": 205149.69229521835,
+        "trend": 0.12579646011283066,
+        "volatility": 0.06868549228197667
+      },
+      "2016_04": {
+        "avg_consumption": 335.5120039545394,
+        "total_consumption": 241568.64284726838,
+        "trend": 0.08680339667442216,
+        "volatility": 0.047858643670032674
+      },
+      "2016_05": {
+        "avg_consumption": 382.7678511679831,
+        "total_consumption": 284779.2812689794,
+        "trend": 0.04982124305873192,
+        "volatility": 0.02861573233490146
+      },
+      "2016_06": {
+        "avg_consumption": 420.67800667897956,
+        "total_consumption": 302888.1648088653,
+        "trend": 0.04429004594743687,
+        "volatility": 0.02487133846898669
+      },
+      "2016_07": {
+        "avg_consumption": 455.04626233529814,
+        "total_consumption": 338554.4191774618,
+        "trend": 0.03713704973846816,
+        "volatility": 0.020784837060217522
+      },
+      "2016_08": {
+        "avg_consumption": 482.39061384348105,
+        "total_consumption": 358898.6166995499,
+        "trend": 0.0219643976949518,
+        "volatility": 0.012607808867713248
+      },
+      "2016_09": {
+        "avg_consumption": 502.9183861873462,
+        "total_consumption": 362101.23805488925,
+        "trend": 0.022655371339303468,
+        "volatility": 0.013058256531076316
+      },
+      "2016_10": {
+        "avg_consumption": 531.3028407614163,
+        "total_consumption": 395289.31352649373,
+        "trend": 0.03694216854171648,
+        "volatility": 0.021079889830435804
+      },
+      "2016_11": {
+        "avg_consumption": 575.828094264971,
+        "total_consumption": 414596.22787077917,
+        "trend": 0.04669122487532864,
+        "volatility": 0.026288234013917534
+      },
+      "2016_12": {
+        "avg_consumption": 631.1146107161508,
+        "total_consumption": 469549.2703728162,
+        "trend": 0.04501316347158886,
+        "volatility": 0.025319863832452515
+      }
+    }
+  },
+  "peak_demand_analysis": {
+    "residential3": {
+      "demand": {
+        "count": 10416,
+        "avg_consumption": 2874.8908446163346,
+        "max_consumption": 3887.0904986910004
+      }
+    },
+    "residential4": {
+      "demand": {
+        "count": 8347,
+        "avg_consumption": 3330.978257088649,
+        "max_consumption": 5261.496837213001
+      }
+    },
+    "residential6": {
+      "demand": {
+        "count": 7855,
+        "avg_consumption": 443.819840112056,
+        "max_consumption": 659.0632928277
+      }
+    }
+  },
+  "appliance_insights": {
+    "residential3": {
+      "total": {
+        "total_consumption": 9304349.128536943,
+        "avg_consumption": 893.2746859194455,
+        "usage_frequency": 10416
+      }
+    },
+    "residential4": {
+      "total": {
+        "total_consumption": 722144.7512725872,
+        "avg_consumption": 69.33033326349724,
+        "usage_frequency": 10416
+      }
+    },
+    "residential6": {
+      "total": {
+        "total_consumption": 275882.84754520503,
+        "avg_consumption": 26.486448497043494,
+        "usage_frequency": 10416
+      }
+    }
+  },
+  "anomaly_summary": {
+    "residential3": {
+      "detection": {
+        "count": 6,
+        "avg_value": 2614.733434652166
+      }
+    },
+    "residential4": {
+      "detection": {
+        "count": 2,
+        "avg_value": 2765.6293330048
+      }
+    },
+    "residential6": {
+      "detection": {
+        "count": 5,
+        "avg_value": 453.19362718298
+      }
+    }
+  }
+}
